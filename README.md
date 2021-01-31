@@ -4,7 +4,7 @@
 
 ### Semana 1:
 
-- [ ] Curso de GIT y Github
+- [ X ] Curso de GIT y Github
 - [ ] Hacer un proyecto con HTML CSS, APLICALE GRID Y FLEX Y JAVASCRIPT BÁSICO lo alojas en github
 - [ ] Curso de fundamentos de Javascript
 - [ ] Curso de SaSS
@@ -29,3 +29,5 @@
 - [ ] Animaciones para la web
 - [ ] React app con NextJS
 - [ ] Testing React app con jest
+
+-voy a colocar x por cada curso que este tomando en ese momento. (Moisés)
