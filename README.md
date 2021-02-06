@@ -7,8 +7,8 @@
 - [x] Curso de GIT y Github
 - [x] Hacer un proyecto con HTML CSS, APLICALE GRID Y FLEX Y JAVASCRIPT BÁSICO lo alojas en github
 - [x] Curso de fundamentos de Javascript
+- [x] Curso de materialize 
 - [ ] Curso de SaSS
-- [ ] Curso de materialize 
 - [ ] Curso de TailwindCSS
 
 ### Semana 2:
