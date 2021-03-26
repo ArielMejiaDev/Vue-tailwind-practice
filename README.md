@@ -8,13 +8,13 @@
 - [x] Hacer un proyecto con HTML CSS, APLICALE GRID Y FLEX Y JAVASCRIPT BÁSICO lo alojas en github
 - [x] Curso de fundamentos de Javascript
 - [x] Curso de materialize 
-- [ ] Curso de SaSS
+- [x] Curso de SaSS
 - [ ] Curso de TailwindCSS
 
 ### Semana 2:
 
-- [ ] Curso de Closure y Scope en Javascript
-- [ ] Curso de asincronismo en Javascript
+- [x] Curso de Closure y Scope en Javascript
+- [x] Curso de asincronismo en Javascript
 
 - [ ] Curso de Svelte
 - [ ] Curso basico de Vue2
